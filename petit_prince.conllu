@@ -1,15 +1,847 @@
 # sent_id = PetitPrince:1:1:1
 # text_orig = Mairamé arikú puyepé akayú amaã, yepé ara, yepé sangawa amurupí retana, yepé papera resé kaawasú resewara sera waá Mbeusawa uyusasá ana waá-itá.
 # text_source = Trevisan (2017:60)
-# text_por = 
-# text_por_source = 
+# text_por = TODO 
 # text_fra = Lorsque j’avais six ans j’ai vu, une fois, une magnifique image, dans un livre sur la forêt vierge qui s’appelait Histoires vécues.
 # text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
 
-# sent_id = PetitPrince:1:1:1
-# text_orig = 
-# text_source = Trevisan (2017:x)
-# text_por = 
-# text_por_source = 
-# text_fra = 
+# sent_id = PetitPrince:1:2:2
+# text_orig = Aé umukameẽ yepé buyawasú umukuna uikú waá yepé suú kaapura.
+# text_source = Trevisan (2017:60)
+# text_por = TODO 
+# text_fra = Ça représentait un serpent boa qui avalait un fauve.
 # text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
+
+# sent_id = PetitPrince:1:3:3
+# text_orig = Xukúi sangawa.
+# text_source = Trevisan (2017:60)
+# text_por = TODO 
+# text_fra = Voilà la copie du dessin.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
+
+# sent_id = PetitPrince:1:4:4
+# text_orig = Papera unheẽ: “Buyawasú-itá umukuna aintá rimiara pawa usuú-suú-íma aintá. Asuí aintá ti ukataka-kwáu, aintá ukíri puyepé yasí aintá apú pukusawa.”
+# text_source = Trevisan (2017:60)
+# text_por = TODO 
+# text_fra = On disait dans le livre: “Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
+
+# sent_id = PetitPrince:1:5:5
+# text_orig = Aramé amanduari retana kaá mbeusawa-itá resé asuí, se rupí tẽ, amunhã-kwáu, yepé pinimasara rupiara irumu, se yepesawa kwatiarisawa.
+# text_source = Trevisan (2017:60)
+# text_por = TODO 
+# text_fra = J’ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j’ai réussi, avec un crayon de couleur, à tracer mon premier dessin.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
+
+# sent_id = PetitPrince:1:6:6
+# text_orig = Se yepesawa kwatiarisawa. Yawé tẽ upitá:
+# text_source = Trevisan (2017:60)
+# text_por = TODO 
+# text_fra = Mon dessin numéro 1. Il était comme ça:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:60)
+
+# sent_id = PetitPrince:1:7:7
+# text_orig = Amukameẽ se munhangawa puranga piri mira-itá turusú ana waá-itá supé, asuí apurandú aintá suí sa se kwatiarisawa umusikié aintá.
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = J’ai montré mon chef-d’œuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:8:8
+# text_orig = Aintá usuaxara kwayé-ntu: “Marã taá maã yepé xapewa umusikié?”
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = Elles m’ont répondu: “Pourquoi un chapeau ferait-il peur?”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:9:9
+# text_orig = Se kwatiarisawa ti umukameẽ yepé xapewa.
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = Mon dessin ne représentait pas un chapeau.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:10:10
+# text_orig = Aé umukameẽ yepé buyawasú i apú waá erepanti kwera resewara.
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = Il représentait un serpent boa qui digérait un éléphant.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:11:11
+# text_orig = Aramé akwatiari buyawasú i pira kwara rupí mira-itá turusú tá umaã-kwáu arama puranga piri.
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = J’ai alors dessiné l’intérieur du serpent boa, afin que les grandes personnes puissent comprendre.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:12:12
+# text_orig = Ti ramé yamusakakanga puranga pawa, aintá ti upisika puranga.
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = Elles ont toujours besoin d’explications.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:13:13
+# text_orig = Yawé upitá se mukũisáwa kwatiarisawa:
+# text_source = Trevisan (2017:61)
+# text_por = TODO 
+# text_fra = Mon dessin numéro 2 était comme ça:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:14:14
+# text_orig = Mira-itá turusú tá umungitá ixé se resarái arama buyawasú kwatiarisawa-itá suí, ayumbué arama puranga piri iwí-kwausawa, mirasawa-itá marandua, paparisawa asuí yané nheenga.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = Les grandes personnes m’ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:61)
+
+# sent_id = PetitPrince:1:15:15
+# text_orig = Yawé, puyepé akayú irumu, axari se suí yepé puranga murakí kwatiarisara yawé.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = C’est ainsi que j’ai abandonné, à l’âge de six ans, une magnifique carrière de peintre.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:16:16
+# text_orig = Se rimutara uyaruka nhaãsé mira-itá turusú ti uwasemu se kwatiarisawa-itá puranga.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = J’avais été découragé par l’insuccès de mon dessin numéro 1 et de mon dessin numéro 2.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:17:17
+# text_orig = Mira-itá turusú ti usika tá ukwáu nẽ maã aintá rupí tẽ, sesewara taína-itá upitá tá kweré retana, nhaãsé, panhẽ mairamé, tá urikuté umbué pawa mira-itá turusú supé.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = Les grandes personnes ne comprennent jamais rien toutes seules, et c’est fatigant, pour les enfants, de toujours et toujours leur donner des explications…
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:18:18
+# text_orig = Aramé arikuté aparawaka amú murakí asuí ayumbué atiari pepusantá.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = J’ai donc dû choisir un autre métier et j’ai appris à piloter des avions.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:19:19
+# text_orig = Awewé ana xinga Iwí pawa ara rupí.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = J’ai volé un peu partout dans le monde.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:20:20
+# text_orig = Iwí-kwausawa, supí, upitimũ retana ixé.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = Et la géographie, c’est exact, m’a beaucoup servi.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:21:21
+# text_orig = Aramé yeperesé amaã-kwáu amurupí China Arizona suí.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = Je savais reconnaître, du premier coup d’œil, la Chine de l’Arizone.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:22:22
+# text_orig = Kwá upitimũ retana mairamé yayusupari pituna ramé.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = C’est très utile, si l’on s’est égaré pendant la nuit.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:23:23
+# text_orig = Yawé, se rikwesawa pukusawa, akwáu ana siía mira musarái-íma-wera waá-itá.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = J’ai ainsi eu, au cours de ma vie, des tas de contacts avec des tas de gens sérieux.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:24:24
+# text_orig = Aikú ana retana mira-itá turusú irumu. Akwáu aintá puranga retana, ma kwá ti upitimũ retana ixé awasemu arama aintá mira katú piri.
+# text_source = Trevisan (2017:62)
+# text_por = TODO 
+# text_fra = J’ai beaucoup vécu chez les grandes personnes. Je les ai vues de très près. Ça n’a pas trop amélioré mon opinion.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:62)
+
+# sent_id = PetitPrince:1:25:25
+# text_orig = Mairamé asuantí yepé mira turusú ukwawara xinga waá, apuranduwera i suí se rangawa yepesawa resewara, amukaturú rẽ waá se irumu.
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Quand j’en rencontrais une qui me paraissait un peu lucide, je faisais l’expérience sur elle de mon dessin numéro 1 que j’ai toujours conservé.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:1:26:26
+# text_orig = Akwáu-putari sa aé ukwawara tẽ.
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Je voulais savoir si elle était vraiment compréhensive.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:1:27:27
+# text_orig = Ma, panhẽ mairamé, nhaã mira usuaxara ixé arama: “Kwá yepé xapewa”.
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Mais toujours elle me répondait: “C’est un chapeau”.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:1:28:28
+# text_orig = Aramé ti ana apurungitá buyawasú resé, nẽ kaawasú resé, nẽ yasitatá resé. Amunhã-ntu i yawé.
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Alors je ne lui parlais ni de serpents boas, ni de forêts vierges, ni de d’étoiles. Je me mettais à sa portée.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:1:29:29
+# text_orig = Apurungitá tetama-itá ruixawa-itá resé asuí muamundewa-itá resé.
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Je lui parlais de bridge, de golf, de politique et de cravates.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:1:30:30
+# text_orig = Yawé nhaã mira turusú surí retana upitá, ukwáu resewara yepé apigawa mayé i yawé...
+# text_source = Trevisan (2017:63)
+# text_por = TODO 
+# text_fra = Et la grande personne était bien contente de connaître un homme aussi raisonnable...
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:2:1:31
+# text_orig = Sesewara aikú yepenhũ, nẽ awá irumu apurungitá arama supí, té ara mairamé se pepusantá upena yepé tetama mira-íma upé, sera waá Saara, aikwé ana puyepé akayú.
+# text_source = Trevisan (2017:63)
+# text_por = TODO
+# text_fra = J’ai ainsi vécu seul, sans personne avec qui parler véritablement, jusqu’à une panne dans le désert du Sahara, il y a six ans.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:2:2:32
+# text_orig = Manungara upena uikú se pepusantá mukatakasara upé.
+# text_source = Trevisan (2017:63)
+# text_por = TODO
+# text_fra = Quelque chose s’était cassé dans mon moteur.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:2:3:33
+# text_orig = Mayé ti aikwé nẽ awá se irumu, arikuté amungaturú se pepusantá se rupí tẽ.
+# text_source = Trevisan (2017:63)
+# text_por = TODO
+# text_fra = Et comme je n’avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:2:4:34
+# text_orig = Nhaã, ixé arama, se rikwesawa u se manũsawa.
+# text_source = Trevisan (2017:63)
+# text_por = TODO
+# text_fra = C’était pour moi une question de vie ou de mort.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:63)
+
+# sent_id = PetitPrince:2:5:35
+# text_orig = Arikú-ntu ií aú arama pumusapiri ara pukusawa.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = J’avais à peine de l’eau à boire pour huit jours.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:6:36
+# text_orig = Yepesawa pituna ramé akiri iwikuí árupi, apekatú retana mayewa tetama suí-ntu mamé mira-itá uikú.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:7:37
+# text_orig = Yawé aikú yepenhũ piri awá uyusupari waá suí yepé igaramirĩ irumu paranãwasú pitérupi.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = J’étais bien plus isolé qu’un naufragé sur un radeau au milieu de l’oceán.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:8:38
+# text_orig = Aramé pemanduari mayé tẽ se akanhemu, mairamé, kwemaité, yepé nheengamirĩ amurupí umupaka ixé.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m’a réveillé.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:9:39
+# text_orig = Unheẽ: ...
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = Elle disait: ...
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:10:40
+# text_orig = - Ayururéu ne suí... rekwatiari ixé arã yepé suumé mimbira!
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = “S’il vous plaît… dessine-moi un mouton!
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:11:41
+# text_orig = - Maã taá?
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = - Hein!
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:12:42
+# text_orig = - Rekwatiari ixé arã yepé suumé mimbira...
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = - Dessine-moi un mouton...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:13:43
+# text_orig = Apuri se akanhemu mayé yepé uerawa uwari ramé maã se árupi, akitika se resá asuí amaã katú sesé.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = J’ai sauté sur mes pieds comme si j’avais été frappé par la foudre. J’ai bien frotté mes yeux. J’ai bien regardé.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:14:44
+# text_orig = Aramé amaã yepé apigawamirĩ amurupí retana umanhana uikú waá ixé.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = Et j’ai vu un petit bonhomme tout à fait extraordinaire qui me considérait gravement.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:15:45
+# text_orig = Xukúi sangawa puranga piri amunhã-kwáu waá sesé asuiwara.
+# text_source = Trevisan (2017:64)
+# text_por = TODO
+# text_fra = Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:16:46
+# text_orig = Ma nhaã apigawamirĩ, supí, puranga piri katú se kwatiarisawa suí.
+# text_source = Trevisan (2017:65)
+# text_por = TODO
+# text_fra = Mais mon dessin, bien sûr, est beaucoup moins ravissant que le modèle.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:64)
+
+# sent_id = PetitPrince:2:17:47
+# text_orig = Ti usemu kwayé se resewara-ntu.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Ce n’est pas ma faute.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:18:48
+# text_orig = Mairamé arikú puyepé akayú mira-itá turusú uyuka se suí se rimutara ti arama apurakí kwatiarisara yawé, sesewara ayumbué-ntu akwatiari buyawasú-itá.
+# text_source = Trevisan (2017:65)
+# text_por = TODO
+# text_por_source = 
+# text_fra = J’avais été découragé dans ma carrière de peintre par les grandes personnes, à l’âge de six ans, et je n’avais rien appris à dessiner, sauf les boas fermés et les boas ouverts.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:19:49
+# text_orig = Amaã-maã nhaã apigawamirĩ resé se resá-itá irumu tá teresemu akanhemusawa irumu.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Je regardai donc cette apparition avec des yeux tout ronds d’étonnement.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:20:50
+# text_orig = Té pe resarái ixé aikú aramé apekatú retana mayewa tetama suí-ntu mamé mira-itá uikú.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = N’oubliez pas que je me trouvais à mille milles de toute région habitée.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:21:51
+# text_orig = Ma nhaã apigawamirĩ ti uyukwáu mayé awá uyusupari waá yawé, nẽ i kweré retana nungara, nẽ i yumasí retana, nẽ i isí retana, nẽ sikiesawa turusú irumu.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:22:52
+# text_orig = Aé ti tẽ yepé kurumimirĩ nungara uyusupari waá yepé tetama mira-íma upé, apekatú retana mayewa tetama suí-ntu mamé mira-itá umurari.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Il n’avait en rien l’apparence d’un enfant perdu au milieu du désert, à mille milles de toute région habitée.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:23:53
+# text_orig = Mairamé apurungitá-kwáu, anheẽ i xupé:
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Quand je réussis enfin à parler, je lui dis:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:24:54
+# text_orig = - Ma... maã taá remunhã iké?
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = “Mais... qu’est-ce que tu fais là?”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:25:55
+# text_orig = Aramé unheẽ amú í ixé arama, kuíri merupí, unheẽ waá yawé manungara satambika retana:
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Et il me répéta alors, tout doucement, comme une chose très sérieuse:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:26:56
+# text_orig = - Ayururéu ne suí... rekwatiari ixé arã yepé suumé mimbira!
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = “S’il vous plaît... dessine-moi un mouton...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:27:57
+# text_orig = Mairamé usika manungara ti tẽ yakwáu waá, puranga piri yapusú aé.
+# text_source = Trevisan (2017:65)
+# text_por = TODO 
+# text_fra = Quand le mystère est trop impressionant, on n’ose pas désobéir.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:65)
+
+# sent_id = PetitPrince:2:28:58
+# text_orig = Apekatú retana mayewa tetama suí-ntu mamé mira-itá uikú asuí sikiesawa irumu manusawa suí, nhaã pawa akangaiwasawa nungara. Ma yawé tẽ apisika yepé papera asuí yepé pinimasara rupiara.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:29:59
+# text_orig = Ma, aramé tẽ, amanduari ayumbué-ntu puranga iwí-kwausawa, mirasawa-itá marandua, paparisawa asuí yané nheenga. Asuí anheẽ apigawamirĩ supé (se piaíwa xinga aikú) ti akwatiari-kwáu.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Mais je me rappelai alors que j’avais surtout étudié la géographie, l’histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:30:60
+# text_orig = Aé usuaxara ixé arama:
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Il me répondit:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:31:61
+# text_orig = - Puranga pá. Rekwatiari ixé arã yepé suumé mimbira.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = “Ça ne fait rien. Dessine-moi un mouton.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:32:62
+# text_orig = Mayé nẽ mairamé akwatiari ana kwera yepé suumé mimbira, amunhã i xupé yepé sangawa akwáu katú waá: se yepesawa kwatiarisawa.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Comme je n’avais jamais dessiné un mouton je refis, pour lui, l’un des deux seuls dessins dont j’étais capable. Celui du boa fermé.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:33:63
+# text_orig = Ma se akanhemu apitá mairamé asendú nhaã apigawamirĩ unheẽ ixé arama:
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Et je fus stupéfait d’entendre le petit bonhomme me répondre:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:34:64
+# text_orig = - Umbaá, umbaá! Ti aputari yepé erepanti kwera yepé buyawasú kwara upé. Buyawasú i yawaité retana asuí erepanti turusú retana. Mamé ixé amurari panhẽ maã mirĩ. Uwatari tẽ ixé arã yepé suumé mimbira. Rekwatiari ixé arã yepé suumé mimbira.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = “Non! Non! Je ne veux pas d’un éléphant dans un boa. Un boa c’est très dangereux, et un éléphant c’est très encombrant. Chez moi c’est tout petit. J’ai besoin d’un mouton. Dessine-moi un mouton.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:35:65
+# text_orig = Aramé akwatiari.
+# text_source = Trevisan (2017:66)
+# text_por = TODO 
+# text_fra = Alors j’ai dessiné.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:66)
+
+# sent_id = PetitPrince:2:36:66
+# text_orig = Umaã katú asuí unheẽ:
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = Il regarda attentivement, puis:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:37:67
+# text_orig = - Umbaá! Kwá i maasí retana. Rekwatiari amú ixé arã.
+# text_source = Trevisan (2017:67)
+# text_por = TODO  
+# text_fra = “Non! Celui-là est déjà très malade. Fais-en un autre.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:38:68
+# text_orig = Aramé akwatiari.
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = Je dessinai:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:39:69
+# text_orig = Se rumuara upuká seẽ:
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = Mon ami sourit gentiment, avec indulgence:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:40:70
+# text_orig = - Rekwáu tẽ kwá ti yepé suumé mimbira. Kwá yepé suumé waimĩ. Aé urikú i aka-itá.
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = “Tu vois bien... ce n’est pas un mouton, c’est un bélier. Il a des cornes...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:41:71
+# text_orig = Aramé amunhã yuíri se kwatiarisawa:
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = Je refis donc encore mon dessin:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:42:72
+# text_orig = Ma, mayé amú kwatiarisawa-itá yawé, muruxawamirĩ ti uputari nhaã yuíri:
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = Mais il fut refusé, comme les précédents:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:43:73
+# text_orig = - Kwá waimĩ retana. Ixé aputari yepé suumé mimbira upitá waá se irumũ siía ara rupí.
+# text_source = Trevisan (2017:67)
+# text_por = TODO 
+# text_fra = “Celui-là est trop vieux. Je veux un mouton qui vive longtemps.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:44:74
+# text_orig = Aramé, mayé susanga-íma ana aikú asuí ti maã aikupukú-putari amungaturú arama se pepusantá mukatakasara, amunhã kutara nungara amú kwatiarisawa.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = Alors, faute de patience, comme j’avais hâte de commencer le démontage de mon moteur, je griffonnai ce dessin-ci:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:67)
+
+# sent_id = PetitPrince:2:45:75
+# text_orig = Asuí anheẽ:
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = Et je lançai:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:46:76
+# text_orig = - Kwá yepé patuá. Suumé mimbira reputari waá uikú patuá kwara upé.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = “Ça c’est la caisse. Le mouton que tu veux est dedans.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:47:77
+# text_orig = Ma se akanhemu retana mairamé amaã uwerá nhaã kurumĩ purandusara ruá.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = Mais je fus bien surpris de voir s’illuminer le visage de mon jeune juge:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:48:78
+# text_orig = - Yawé tẽ aputari waá! Remaité será kwá suumé mimbira umbaú kapĩ turusú?
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = “C’est tout à fait comme ça que je le voulais! Crois-tu qu’il faille beaucoup d’herbe à ce mouton?
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:49:79
+# text_orig = - Marã taá?
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = - Pourquoi?
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:50:80
+# text_orig = - Nhaãsé mamé amurari panhẽ maã mirĩ...
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = - Parce que chez moi c’est tout petit...
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:51:81
+# text_orig = - Kapĩ mirĩ uikú ana puranga. Ameẽ indé arã yepé suumé mimbira mirĩ retana.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = - Ça suffira sûrement. Je t’ai donné un tout petit mouton.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:52:82
+# text_orig = Umuyawika i akanga kwatiarisawa resé.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = Il pencha la tête vers le dessin:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:53:83
+# text_orig = - Aé ti tẽ kwaíra retana… Remaã! Ukiri ana...
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = “Pas si petit que ça... Tiens! Il s’est endormi...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:54:84
+# text_orig = Kwayé akwáu nhaã muruxawamirĩ.
+# text_source = Trevisan (2017:68)
+# text_por = TODO 
+# text_fra = Et c’est ainsi que je fis la connaissance du petit prince.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:68)
+
+# sent_id = PetitPrince:2:55:85
+# text_orig = Xukúi sangawa puranga piri amunhã-kwáu waá sesé asuiwara.
+# text_source = Trevisan (2017:69)
+# text_por = TODO
+# text_fra = Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:69)
+
+# sent_id = PetitPrince:3:1:86
+# text_orig = Aikupukú retana akwáu arama masuí nhaã muruxawamirĩ uri.
+# text_source = Trevisan (2017:69)
+# text_por = TODO
+# text_fra = Il me fallut longtemps pour comprendre d’où il venait.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:69)
+
+# sent_id = PetitPrince:3:2:87
+# text_orig = Muruxawamirĩ, upurandú waá kwera siía maã se suí, nẽ mairamé usendú maã apurandú i suí.
+# text_source = Trevisan (2017:69)
+# text_por = TODO
+# text_fra = Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:69)
+
+# sent_id = PetitPrince:3:3:88
+# text_orig = Aramé yepé-yepé nheenga unheẽ waá, merupí tá umukameẽ pawa ixé arama.
+# text_source = Trevisan (2017:69)
+# text_por = TODO
+# text_fra = Ce sont des mots prononcés par hasard qui, peu à peu, m’ont tout révélé.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:69)
+
+# sent_id = PetitPrince:3:4:89
+# text_orig = Yawé, mairamé umaã, yepesawa í, se pepusantá (ti akwatiari kurí se pepusantá, kwá yepé sangawa iwasú retana ixé arama), aé upurandú se suí:
+# text_source = Trevisan (2017:69)
+# text_por = TODO
+# text_fra = Ainsi, quand il aperçut pour la première fois mon avion (je ne dessinerai pas mon avion, c’est un dessin beaucoup trop compliqué pour moi) il me demanda:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:69)
+
+# sent_id = PetitPrince:3:5:90
+# text_orig = - Maã taá nhaã maã mimi?
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = “Qu’est-ce que c’est que cette chose-lá?
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:6:91
+# text_orig = - Nhaã ti yepé maã. Nhaã uwewé. Nhaã yepé pepusantá. Se pepusantá.
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = - Ce n’est pas une chose. Ça vole. C’est un avion. C’est mon avion.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:7:92
+# text_orig = Se rurí apitá mairamé ambeú i xupé awewewera. Aramé, i akanhemu xinga, upurandú se suí:
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = Et j’étais fier de lui apprendre que je volais. Alors il s’écria:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:8:93
+# text_orig = - Maã taá? Rewari iwaka suí?
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = “Comment! tu es tombé du ciel!
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:9:94
+# text_orig = - Eẽ - anheẽ-ntu nhaã.
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = - Oui, fis-je modestement.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:10:95
+# text_orig = - Ah! Kwá amurupí retana!
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = - Ah! ça c’est drôle!...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:11:96
+# text_orig = Aramé muruxawamirĩ sé upuká, sesewara se piaíwa retana.
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = Et le petit prince eut un très joli éclat de rire qui m’irrita beaucoup.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:12:97
+# text_orig = Ti aputari mira-itá umusarai se purarasawa irumu. Asuí, aé umuapiri:
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = Je désire que l’on prenne mes malheurs au sérieux. Puis il ajouta:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:13:98
+# text_orig = - Aramé, indé yuíri reyuri iwaka suí! Maã iwaka-retama suí indé reyuri?
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = “Alors, toi aussi tu viens du ciel! De quelle planète es-tu?”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:14:99
+# text_orig = Aramé tẽ ayupirũ amaã masuí uri nhaã muruxawamirĩ, asuí apurandú i suí:
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = J’entrevis aussitôt une lueur, dans le mystère de sa présence, et j’interrogeai brusquement:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:15:100
+# text_orig = - Reyuri yepé tetama suí ti waá upitá Iwí upé?
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = “Tu viens donc d’une autre planète?”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:16:101
+# text_orig = Ma aé ti usuaxara. Umuyatimú merupí i akanga umaã pukusawa se pepusantá:
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = Mais il ne me répondit pas. Il hochait la tête doucement tout en regardant mon avion:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:17:102
+# text_orig = - Kwá irumu, supí, ti reyuri-kwáu tẽ apekatú retana suí...
+# text_source = Trevisan (2017:70)
+# text_por = TODO
+# text_fra = “C’est vrai que, là-dessus, tu ne peux pas venir de bien loin...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:70)
+
+# sent_id = PetitPrince:3:18:103
+# text_orig = Aramé uyapumi yepé manduarisawa upé uikupukú retana waá.
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = Et il s’enfonça dans une rêverie qui dura longtemps.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:19:104
+# text_orig = Upisika amú í nhaã sangawa asuí umaã-maã nhaã suumirĩ puranga resé.
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = Puis, sortant mon mouton de sa poche, il se plongea dans la contemplation de son trésor.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:20:105
+# text_orig = Pemanduari mayé se akanhemu asendú resewara amú awá upurungitá tetama-itá resé ti waá-itá upitá Iwí upé.
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = Vous imaginez combien j’avais pu être intrigué par cette demi-confidence sur “les autres planètes”.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:21:106
+# text_orig = Aramé akwáu-putari piri xinga sesewara:
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = Je m’efforçai donc d’en savoir plus long:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:22:107
+# text_orig = - Masuí taá reyuri, apigawamirĩ? Mamé taá ne ruka? Makití taá rerasú-putari kwá suumé mimbira?
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = “D’où viens-tu, mon petit bonhomme? Où est-ce “chez toi”? Où veux-tu emporter mon mouton?”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:23:108
+# text_orig = Usuaxara ixé arama umanduari xinga riré:
+# text_source = Trevisan (2017:71)
+# text_por = TODO
+# text_fra = Il me répondit après un silence méditatif:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:71)
+
+# sent_id = PetitPrince:3:24:109
+# text_orig = - Patuá remeẽ waá ixé arã, aé kurí yepé uka nungara i xupé pituna ramé.
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = “Ce qui est bien, avec la caisse que tu m’as donnée, c’est que, la nuit, ça lui servira de maison.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:25:110
+# text_orig = - Supí. Ne katú ramé kurí se irumu, ameẽ kurí indé arã yepé tupasama repukwari arã aé ara pukusawa asuí yepé mirá pisãwéra upitasuka arã aé.
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = - Bien sûr. Et si tu es gentil, je te donnerai aussi une corde pour l’attacher pendant le jour. Et un piquet.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:26:111
+# text_orig = Maã anheẽ waá umuakanhemu pu muruxawamirĩ:
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = La proposition parut choquer le petit prince:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:27:112
+# text_orig = - Apukwari arã aé? Kwá yepé akangaiwasawa!
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = “L’attacher? Quelle drôle d’idée!
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:28:113
+# text_orig = - Ma ti ramé repukwari aé, usú kurí amú tendawa kití asuí uyusupari.
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = - Mais si tu ne l’attaches pas, il ira n’importe où, et il se perdra.”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:29:114
+# text_orig = Aramé se rumuara uyupirũ upuká amú í:
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = Et mon ami eut un nouvel éclat de rire:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:30:115
+# text_orig = - Ma… makití taá remaité aé usú?
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = “Mais où veux-tu qu’il aille!
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:31:116
+# text_orig = - Ti akwáu marupí. Senundé kití tẽ...
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = - N’importe où. Droit devant lui...”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:32:117
+# text_orig = Aramé muruxawamirĩ unheẽ santá:
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = Alors le petit prince remarqua gravement:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:33:118
+# text_orig = - Puranga pá, mamé amurari panhẽ maã mirĩ retana!
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = “Ça ne fait rien, c’est tellement petit, chez moi!”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:34:119
+# text_orig = Asuí, araneíma sasiara xinga, aé unheẽ rẽ:
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = Et, avec un peu de mélancolie, peut-être, il ajouta:
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:35:120
+# text_orig = - Mairamé yawatawara yané renundé kití, ti tẽ yasú-kwáu apekatú retana...
+# text_source = Trevisan (2017:72)
+# text_por = TODO
+# text_fra = “Droit devant soi on ne peut pas aller bien loin…”
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:72)
+
+# sent_id = PetitPrince:3:36:121
+# text_orig = Muruxawamirĩ iwaka-retama B 612 resé.
+# text_source = Trevisan (2017:73)
+# text_por = TODO
+# text_fra = Le petit prince sur l’astéroïde B 612.
+# text_fra_source = Saint-Exupéry (1999), apud Trevisan (2017:73)
